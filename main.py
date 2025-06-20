@@ -2,3 +2,4 @@
 user_input = input()
 if user_input == "こんにちわ":
     print("いらっしゃいませ")
+
